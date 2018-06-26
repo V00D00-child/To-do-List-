@@ -1,0 +1,6 @@
+Doctors Appointment	See Dr. Smith 1:00pm	29-06-2018
+New shirt	Go to American Eagle to buy that new shirt.	02-07-2018
+Phone bill	Don't forget to pay the phone bill a extra $50	12-06-2018
+Ride bike	Go to the old trail to ride my bike.	26-06-2018
+Website	Finishing building my first website	26-06-2018
+Buy Book	This is a must buy book: Code Complete by: McConnell, Steve	04-07-2018
