@@ -2,6 +2,8 @@
 
 Todo list desktop Application that keeps track of tasks that include short description, details, and deadline date. Allows a user to perform CRUD (create, read, update, delete) operations, and stores user’s data as a text file.
 
+<img src="ScreenShots/Todo_01.PNG" width="500">
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
