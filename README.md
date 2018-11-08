@@ -1,6 +1,6 @@
 # To-do-List-
 
-Todo list desktop Application that keeps track of tasks that include short description, details, and deadline date. Allows a user to perform CRUD (create, read, update, delete) operations, and stores user’s data as a text file.
+Todo list desktop Application that keeps track of tasks that include short description, details, and deadline date. Allows a user to perform CRUD (create, read, update, delete) operations, and stores user’s data in a text file.
 
 <img src="ScreenShots/Todo_01.PNG" width="600" align="right">
 
